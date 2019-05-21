@@ -18,8 +18,8 @@ This course takes you step-by-step in a tutorial-based approach, diving deep int
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you are C# developer with good grips on Unity, this video will take your UI development skills to the next level, boosting up your confidence to build powerful interfaces to improve your user experience.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-4GB RAM
+4GB RAM<br/>
+
 500GB Hard-disk storage
 
 
